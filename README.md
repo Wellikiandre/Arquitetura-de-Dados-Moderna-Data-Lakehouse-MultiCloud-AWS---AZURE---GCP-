@@ -13,7 +13,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/wellikiandre/">
-    <img src="img/linkedin.png" alt="linkedin" width="20px" /> linkedin Wellikiandre Martins
+    <img src="img/linkedin.png" alt="linkedin" width="40px" /> linkedin Wellikiandre Martins
 </a>
 </p>
 
@@ -22,7 +22,7 @@
 </h5>
 
 </br>
-  <img src="img/arquitetura.png" alt="Implementação" width="1200px" /> 
+  <img src="img/arquitetura.png" alt="Implementação" width="800px" /> 
 </br>
 
 
@@ -66,7 +66,7 @@
 <p>
 &nbsp&nbsp&nbsp Temos diversas formas de disponibilizar o dado nesta arquitetura: o ambiente serverless Databricks SQL é um ambiente de fácil uso para a área de negócio, analista de dados e analista de negócio. Este ambiente utiliza um cluster que possui conexão instantânea com os dados no Data Lake em todas as camadas, criando um ambiente de uso simples e direto com conexões para usuários que não sabem codar, onde facilmente se consegue plugar, com um clique, diversos aplicativos de Data Viz, como PowerBI, Tableau, etc. Além de um ambiente para execuções de SQL inclusive de forma gráfica.
 </br>
-  <img src="img/conectores.png" alt="Conectores" width="800px" /> 
+  <img src="img/conectores.png" alt="Conectores" width="600px" /> 
 </br>
 </p>
 
