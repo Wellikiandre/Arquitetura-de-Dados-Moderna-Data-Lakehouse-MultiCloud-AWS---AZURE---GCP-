@@ -13,8 +13,8 @@
   </a>
 </p>
 
-<h5>&nbsp&nbsp&nbsp Neste projeto você encontrará um exemplo de uma arquitetura de dados moderna que pode ser utilizada em qualquer das 3 maiores cloud do mercado, sendo elas a AWS(Amazon), AZURE(Microsoft) e GCP(Google).
-</br>&nbsp&nbsp&nbsp O principal objetivo do projeto é a democratização dos dados do seu negócio através da criação de um Data Lakehouse que irá atender a aréa de analise de dados e ciência de dados para alavancar e entender o negócio melhorando ou desenvolvendo novos produtos para que a experiencia do cliente sempre seja a melhor.
+<h5>&nbsp&nbsp&nbsp Neste projeto você encontrará um exemplo de uma arquitetura de dados moderna que pode ser utilizada em qualquer uma das 3 maiores cloud do mercado, sendo elas a AWS(Amazon), AZURE(Microsoft) e GCP(Google).
+</br>&nbsp&nbsp&nbsp O principal objetivo do projeto é a democratização dos dados do seu negócio através da criação de um Data Lakehouse que irá atender a área de análise e ciência de dados para alavancar e entender o seu negócio melhorando ou desenvolvendo novos produtos para que a experiência do cliente sempre seja a melhor.
 </h5>
 <p align="center">
   </br>
@@ -34,20 +34,20 @@
 ## 1 : Data Sources ##
 
 <p>
-&nbsp&nbsp&nbsp  Data Sources são a origem dos dados que estão ou seram coletados na etapa de ingestão. Esses dados podem ser oriundos de sistemas transacionais onde mais de 90% dos dados são oriundos de aplicações web e dispositivos móveis. </br>&nbsp&nbsp&nbsp  Outras fontes de origem são dados de sistemas de IoT e/ou dados de modelos de machine learning, além de fotos, videos entre outros; ou seja, tudo que possui input/entrada de informação é passível de coleta.
+&nbsp&nbsp&nbsp  Data Sources são a origem dos dados que estão, ou serão coletados, na etapa de ingestão. Esses dados podem ser oriundos de sistemas transacionais onde mais de 90% dos dados são oriundos de aplicações web e dispositivos móveis.
+ </br>&nbsp&nbsp&nbsp  Outras fontes de origem são dados de sistemas de IoT e/ou dados de modelos de machine learning, além de fotos, videos entre outros; ou seja, tudo que possui input/entrada de informação é passível de coleta.
 </p>
 
 ## 2 : Servidor ##
 
 <p>
-&nbsp&nbsp&nbsp  As vezes não podemos acessar o dado diretamente de sua fonte com isso fazemos requisições em uma servidor homologado que acessa esses bancos transacionais servindo de ponte na coleta dos dados
+&nbsp&nbsp&nbsp  As vezes não podemos acessar o dado diretamente de sua fonte, para lidar com isso realizamos requisições em um servidor homologado que acessa esses bancos transacionais servindo de ponte na coleta dos dados.
 </p>
 
 ## 3.1 : Ingestão de dados ##
 
-<p>
-&nbsp&nbsp&nbsp Está etapa podemos obter dados utilizando técnica de ingestão em batch  ou streaming.
-</br> &nbsp&nbsp&nbsp Ingestão de dados batch é o processo de processamento de grandes quantidades de dados em grupos, ou "lotes". Geralmente acontece em uma transação única e os dados não estao proximos do tempo real.
+<p>&nbsp&nbsp&nbsp Nesta etapa podemos obter dados utilizando técnica de ingestão em batch ou streaming.
+</br> &nbsp&nbsp&nbsp  Ingestão de dados batch é o processo de processamento de grandes quantidades de dados em grupos, ou "lotes". Geralmente acontece em uma transação única e os dados não estão próximos do tempo real.
 </br> &nbsp&nbsp&nbsp Ingestão de dados streaming é o processo de processamento de dados no momento em que são gerados. É usado para processar dados em tempo real, o que significa que os dados são processados assim que são gerados ou em forma de microbatch utilizando técnica de insert/update.
 </p>
 
@@ -62,7 +62,7 @@
 <p>
 &nbsp&nbsp&nbsp Temos diversas formas de disponibilizar o dado nesta arquitetura: o ambiente serverless Databricks SQL é um ambiente de fácil uso para a área de negócio, analista de dados e analista de negócio. Este ambiente utiliza um cluster que possui conexão instantânea com os dados no Data Lake em todas as camadas, criando um ambiente de uso simples e direto com conexões para usuários que não sabem codar, onde facilmente se consegue plugar, com um clique, diversos aplicativos de Data Viz, como PowerBI, Tableau, etc. Além de um ambiente para execuções de SQL inclusive de forma gráfica.
 </br>
-  <img src="img/conectores.png" alt="Conectores" width="600px" /> 
+  <img src="img/conectores.PNG" alt="Conectores" width="600px" /> 
 </br>
 </p>
 
@@ -78,14 +78,14 @@
 
 <p>
   <ol>
-    <li>Nesta Localização é possivel acessar os códigos , repositórios e os acessos recentes </li>
-    <li>Em data é possivel acessar os dados, cluster e os fluxos de execuções</li>
-    <li>Nesta aréa é possivel utilizar todo o ambiente para data science</li>
-    <li>Aqui pode selecionar o banco de dados</li>
-    <li>Escolher a tabela de dados do banco de dados</li>
-    <li>Visualizar as colunas da tabela com os tipos e dicionário de dados</li>
-    <li>Exemplo dos dados na tabela</li>
-    <li>Escolher se deseja utilizar o dado em um ambiente externo , interno, sql, Power BI, Python etc..</li>
+    <li> Nesta Localização é possível acessar os códigos , repositórios e os acessos recentes. </li>
+    <li> Em data é possível acessar os dados, cluster e os fluxos de execuções</li>
+    <li> Nesta área é possível utilizar todo o ambiente para data science</li>
+    <li> Aqui pode selecionar o banco de dados</li>
+    <li> Escolher a tabela de dados do banco de dados</li>
+    <li> Visualizar as colunas da tabela com os tipos e dicionário de dados</li>
+    <li> Exemplo dos dados na tabela</li>
+    <li> Escolher se deseja utilizar o dado em um ambiente externo , interno, sql, Power BI, Python etc..</li>
   </ol>
 </p>
 
