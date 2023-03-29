@@ -3,28 +3,24 @@
     <img src="img/Wellikiandre_weeDevelop.gif" alt="Fundamentos De Engenharia De Dados" width="200px" /> 
 </a>
 
-  &#xa0;
-
-  <!-- <a href="https://www.linkedin.com/in/wellikiandre/">LinkdeIn</a> -->
 </div>
 
-<h3 align="center">Arquitetura de Dados Moderna | Data Lakehouse | MultiCloud</h1>
+<h3 align="center">Arquitetura de Dados Moderna | Data Lakehouse | MultiCloud</h3>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/wellikiandre/">
-    <img src="img/linkedin.png" alt="linkedin" width="40px" /> linkedin Wellikiandre Martins
-</a>
+  <a href="https://www.linkedin.com/in/wellikiandre/">
+      <img src="img/linkedin.png" alt="linkedin" width="40px" /> linkedin Wellikiandre Martins
+  </a>
 </p>
 
 <h5>&nbsp&nbsp&nbsp Neste projeto você encontrará um exemplo de uma arquitetura de dados moderna que pode ser utilizada em qualquer das 3 maiores cloud do mercado, sendo elas a AWS(Amazon), AZURE(Microsoft) e GCP(Google).
 </br>&nbsp&nbsp&nbsp O principal objetivo do projeto é a democratização dos dados do seu negócio através da criação de um Data Lakehouse que irá atender a aréa de analise de dados e ciência de dados para alavancar e entender o negócio melhorando ou desenvolvendo novos produtos para que a experiencia do cliente sempre seja a melhor.
 </h5>
-
-</br>
-  <img src="img/arquitetura.png" alt="Implementação" width="800px" /> 
-</br>
-
+<p>
+  </br>
+    <img src="img/arquitetura.png" alt="Implementação" width="800px" /> 
+  </br>
+</p>
 
 ##  O que é Data Lakekouse? ##
 
