@@ -9,16 +9,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wellikiandre/">
-      <img src="img/linkedin.png" alt="linkedin" width="40px" /> linkedin Wellikiandre Martins
+      <img src="img/linkedin.PNG" alt="linkedin" width="40px" /> linkedin Wellikiandre Martins
   </a>
 </p>
 
 <h5>&nbsp&nbsp&nbsp Neste projeto você encontrará um exemplo de uma arquitetura de dados moderna que pode ser utilizada em qualquer das 3 maiores cloud do mercado, sendo elas a AWS(Amazon), AZURE(Microsoft) e GCP(Google).
 </br>&nbsp&nbsp&nbsp O principal objetivo do projeto é a democratização dos dados do seu negócio através da criação de um Data Lakehouse que irá atender a aréa de analise de dados e ciência de dados para alavancar e entender o negócio melhorando ou desenvolvendo novos produtos para que a experiencia do cliente sempre seja a melhor.
 </h5>
-<p>
+<p align="center">
   </br>
-    <img src="img/arquitetura.png" alt="Implementação" width="800px" /> 
+    <img src="img/arquitetura.PNG" alt="Implementação" width="1000px" /> 
   </br>
 </p>
 
@@ -70,7 +70,9 @@
 <p>
 &nbsp&nbsp&nbsp Todo acesso descrito no Ambiente de Data Analytics o Cientista tem acesso, além do Ambiente de Machine Learning onde o mesmo tem tudo o que é necessário para desenvolvimento e treinamento do seu modelo, conforme print abaixo segue um resumo do ambiente.
 </br>
-  <img src="img/exemplo.png" alt="Ambiente" width="800px" /> 
+  <p align="center">
+    <img src="img/exemplo.png" alt="Ambiente" width="800px"/> 
+  </p>
 </br>
 </p>
 
