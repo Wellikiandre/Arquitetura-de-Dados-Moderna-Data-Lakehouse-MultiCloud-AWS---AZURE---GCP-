@@ -1,6 +1,6 @@
 <div align="center" id="top"> 
   <a href="https://www.linkedin.com/in/wellikiandre/">
-    <img src="img/Wellikiandre_weeDevelop.gif" alt="Fundamentos De Engenharia De Dados" width="200px" /> 
+    <img src="img/Wellikiandre.gif" alt="Fundamentos De Engenharia De Dados" width="200px" /> 
 </a>
 
 </div>
