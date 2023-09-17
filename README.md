@@ -14,7 +14,7 @@
 </p>
 
 <h5>&nbsp&nbsp&nbsp Neste projeto você encontrará um exemplo de uma arquitetura de dados moderna que pode ser utilizada em qualquer uma das 3 maiores cloud do mercado, sendo elas a AWS(Amazon), AZURE(Microsoft) e GCP(Google).
-</br>&nbsp&nbsp&nbsp O principal objetivo do projeto é a democratização dos dados do seu negócio através da criação de um Data Lakehouse que irá atender a área de análise e ciência de dados para alavancar e entender o seu negócio melhorando ou desenvolvendo novos produtos para que a experiência do cliente sempre seja a melhor.
+</br>&nbsp&nbsp&nbsp O principal objetivo do projeto é a democratização dos dados do seu negócio, uma criação de Data Lakehouse irá atender a área de análise e ciência de dados, alavanando o seu negócio, melhorando ou desenvolvendo novos produtos, para que a experiência do cliente sempre seja a melhor possivel.
 </h5>
 <p align="center">
   </br>
